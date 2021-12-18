@@ -8,10 +8,10 @@ This is a Frontend Mentor Challenge of Junior Level
 
 **If you want to see my Live Project click below** :point_down:
 
-[Live Preview]()
+[Live Preview](https://frosty-kowalevski-3e0bf4.netlify.app/)
 
 _if above live preview doesn't work click below_ :point_down:
 
-[Live Preview]()
+[Live Preview](https://testimonials-grid-section-weld-tau.vercel.app/)
 
 #### Thank you :+1:
